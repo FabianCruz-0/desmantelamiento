@@ -1,0 +1,28 @@
+/* Cuando la pantalla es una computadora se tiene este estilo: */
+
+
+@media (min-width:990px){
+    .navbar{
+        height: 10vh;
+        font-size: 2vw;
+        font-weight: lighter;
+    }
+}
+
+#hero{
+    background-color: rgb(89, 138, 230);
+    margin-top: 1vh;
+    font-family: 'Poppins';
+    font-size: 1.4vw;
+}
+.poppins{
+    font-family: 'Poppins';
+}
+.back{
+    background-color: rgba(187, 205, 228, 0.548);
+    text-align: justify;
+}
+
+.hero-text{
+    color: white;
+}
